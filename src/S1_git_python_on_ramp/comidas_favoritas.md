@@ -84,11 +84,11 @@ _[Opcional: explica por qué te gusta]_
 
 ## Estudiante 6
 
-**Nombre completo:** _[Escribe tu nombre aquí]_
+**Nombre completo:** Michael Alexis
 
-**Comida favorita:** _[Tu comida favorita]_
+**Comida favorita:** Fries
 
-**Comida que menos te gusta:** _[La comida que menos te gusta]_
+**Comida que menos te gusta:** Camarón
 
 **Por qué te gusta tu comida favorita:**
 _[Opcional: explica por qué te gusta]_
